@@ -12,3 +12,53 @@
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991.svg?style=flat&logo=OpenAI&logoColor=white">
 </p>
 
+---
+## 📚 Table of Contents
+
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Testing](#testing)
+- [License](#license)
+---
+
+## 🧠 Overview
+
+**Express-with-OpenAI** is a powerful developer tool that seamlessly integrates OpenAI's chat capabilities into your Express.js applications, enabling intelligent conversational interfaces.
+
+### Why express-with-openai?
+
+This project enhances user engagement through personalized AI interactions while maintaining a robust architecture. Core features include:
+
+- 🤖 **Seamless OpenAI Integration:** Facilitates coherent dialogues with personalized responses.
+- 📦 **Modular Routing Architecture:** Enhances maintainability and scalability for easy expansion.
+- 🔧 **Robust Configuration Management:** Centralizes settings for smooth deployment across environments.
+- 🛡️ **Type Safety with TypeScript:** Promotes code quality and reduces runtime errors.
+- 📡 **Efficient API Communication:** Streamlines the process of sending prompts and receiving responses.
+
+---
+## Tech Stack
+
+- **Node.js**
+- **Express.js**
+- **TypeScript**
+- **OpenAI API**
+- **dotenv**
+- **ts-node-dev** for development
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- **Programming Language:** TypeScript
+- **Package Manager:** npm
+
+### Installation
+
+Build `express-with-openai` from source and install dependencies:
+
+
